@@ -13,7 +13,7 @@ import hashlib
 
 # ===================== CONFIG =====================
 BASE = r"E:\Local Repositories\food-recognition-and-nutrition-analyzer"
-WEIGHTS = f"{BASE}/runs/food256_yv8m_ddp_640/weights/best.pt"                       # <- your trained detector
+WEIGHTS = f"{BASE}/food256_yv8m_ddp_640/weights/best.pt"                       # <- your trained detector
 NUTRITION_CSV = f"{BASE}/datasets/nutrition_256.csv"                                # <- food,calories,protein,carbs,fat
 DENSITY_CSV   = f"{BASE}/datasets/density_overrides_template.csv"                   # <- label,density (optional overrides)
 TEST_IMAGE = r"E:\Food Detection Project\Datasets\uec256_yolo\images\test\28.jpg"   # or use TEST_DIR below
