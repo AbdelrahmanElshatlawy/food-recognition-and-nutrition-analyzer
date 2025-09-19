@@ -1,0 +1,257 @@
+food,calories,protein,carbs,fat
+rice,130,2.7,28.2,0.3
+eels on rice,185,9.0,22.5,6.0
+pilaf,150,3.5,24.0,4.5
+chicken-'n'-egg on rice,165,9.8,20.5,5.5
+pork cutlet on rice,210,9.5,23.0,8.5
+beef curry,150,7.0,10.0,8.0
+sushi,140,7.0,28.0,1.0
+chicken rice,160,6.0,25.0,4.0
+fried rice,200,4.0,33.0,6.0
+tempura bowl,215,6.0,29.0,8.0
+bibimbap,130,5.0,20.0,3.5
+toast,265,9.0,49.0,3.2
+croissant,406,8.2,45.0,21.0
+roll bread,270,9.0,50.0,3.5
+raisin bread,300,8.8,56.0,4.0
+chip butty,270,6.0,39.0,9.0
+hamburger,250,12.0,28.0,9.0
+pizza,266,11.0,33.0,10.0
+sandwiches,230,9.0,27.0,9.0
+udon noodle,127,3.3,25.0,0.2
+tempura udon,110,3.0,16.0,3.0
+soba noodle,99,5.1,21.4,0.1
+ramen noodle,150,5.0,22.0,4.5
+beef noodle,135,7.0,18.0,3.5
+tensin noodle,145,6.5,19.0,4.0
+fried noodle,180,6.0,27.0,6.0
+spaghetti,158,5.8,30.9,0.9
+Japanese-style pancake,150,6.0,18.0,6.0
+takoyaki,175,6.5,22.0,7.0
+gratin,160,6.0,14.0,9.0
+sauteed vegetables,85,2.5,8.0,5.0
+croquette,230,4.0,25.0,12.0
+grilled eggplant,60,1.5,6.0,3.0
+sauteed spinach,90,3.0,4.0,7.0
+vegetable tempura,220,3.0,24.0,12.0
+miso soup,40,3.0,3.0,1.5
+potage,70,2.0,10.0,2.5
+sausage,300,12.0,1.0,27.0
+oden,80,8.0,6.0,2.0
+omelet,154,11.0,1.3,11.0
+ganmodoki,170,12.0,5.0,11.0
+jiaozi,210,8.0,30.0,6.0
+stew,110,7.0,8.0,5.0
+teriyaki grilled fish,170,20.0,6.0,6.0
+fried fish,220,18.0,8.0,12.0
+grilled salmon,206,22.0,0.0,13.0
+salmon meuniere,230,22.0,2.0,16.0
+sashimi,140,23.0,0.0,4.0
+grilled pacific saury,230,19.0,0.0,17.0
+sukiyaki,120,9.0,6.0,6.0
+sweet and sour pork,190,12.0,15.0,9.0
+lightly roasted fish,160,23.0,0.0,6.0
+steamed egg hotchpotch,70,7.0,3.0,3.0
+tempura,240,6.0,24.0,14.0
+fried chicken,250,20.0,8.0,14.0
+sirloin cutlet,290,19.0,15.0,18.0
+nanbanzuke,170,16.0,10.0,7.0
+boiled fish,130,22.0,0.0,4.0
+seasoned beef with potatoes,120,7.0,13.0,4.0
+hambarg steak,230,16.0,8.0,14.0
+steak,250,26.0,0.0,17.0
+dried fish,290,60.0,0.0,3.0
+ginger pork saute,180,16.0,6.0,9.0
+spicy chili-flavored tofu,140,8.0,5.0,9.0
+yakitori,150,18.0,6.0,5.0
+cabbage roll,110,6.0,8.0,6.0
+omelet,154,11.0,1.3,11.0
+egg sunny-side up,180,13.0,1.0,14.0
+natto,212,19.0,14.0,11.0
+cold tofu,60,6.0,2.0,3.0
+egg roll,170,10.0,10.0,10.0
+chilled noodle,140,5.0,23.0,2.0
+stir-fried beef and peppers,170,14.0,7.0,9.0
+simmered pork,220,17.0,4.0,15.0
+boiled chicken and vegetables,110,14.0,5.0,3.0
+sashimi bowl,140,9.0,20.0,3.0
+sushi bowl,150,8.0,24.0,3.0
+fish-shaped pancake with bean jam,230,6.0,45.0,4.0
+shrimp with chill source,140,13.0,8.0,6.0
+roast chicken,190,27.0,0.0,8.0
+steamed meat dumpling,200,9.0,28.0,6.0
+omelet with fried rice,170,6.0,24.0,6.0
+cutlet curry,190,7.0,20.0,9.0
+spaghetti meat sauce,150,6.0,22.0,4.5
+fried shrimp,230,14.0,15.0,12.0
+potato salad,143,2.5,17.0,7.5
+green salad,20,1.2,3.0,0.2
+macaroni salad,230,4.0,23.0,13.0
+Japanese tofu and vegetable chowder,60,4.0,6.0,2.0
+pork miso soup,80,5.0,4.0,4.0
+chinese soup,35,2.0,3.0,1.5
+beef bowl,160,8.0,20.0,6.0
+kinpira-style sauteed burdock,120,2.0,18.0,5.0
+rice ball,170,3.5,37.0,0.5
+pizza toast,250,10.0,28.0,11.0
+dipping noodles,155,6.0,26.0,3.0
+hot dog,290,11.0,24.0,18.0
+french fries,312,3.4,41.0,15.0
+mixed rice,140,3.2,28.0,1.5
+goya chanpuru,120,7.0,7.0,7.0
+green curry,150,6.0,6.0,10.0
+okinawa soba,120,6.0,18.0,2.5
+mango pudding,95,2.0,18.0,2.0
+almond jelly,80,2.0,16.0,1.5
+jjigae,70,6.0,4.0,3.0
+dak galbi,170,14.0,8.0,9.0
+dry curry,180,8.0,18.0,9.0
+kamameshi,145,6.0,24.0,3.0
+rice vermicelli,109,1.8,24.9,0.2
+paella,158,6.0,22.0,5.0
+tanmen,110,5.0,16.0,3.0
+kushikatu,260,12.0,17.0,16.0
+yellow curry,150,6.0,7.0,10.0
+pancake,227,6.0,28.0,9.5
+champon,120,6.0,18.0,3.5
+crape,220,5.0,35.0,7.0
+tiramisu,270,5.0,32.0,14.0
+waffle,291,7.8,34.0,14.0
+rare cheese cake,320,7.0,25.0,22.0
+shortcake,310,5.0,40.0,16.0
+chop suey,85,6.0,6.0,4.0
+twice cooked pork,230,12.0,6.0,18.0
+mushroom risotto,140,3.0,22.0,4.0
+samul,80,3.0,10.0,3.0
+zoni,60,3.0,8.0,1.5
+french toast,227,8.0,28.0,9.0
+fine white noodles,130,3.5,26.0,0.4
+minestrone,50,2.0,9.0,1.0
+pot au feu,70,6.0,4.0,3.0
+chicken nugget,290,15.0,18.0,17.0
+namero,150,20.0,3.0,6.0
+french bread,265,9.0,52.0,1.5
+rice gruel,46,1.0,10.0,0.1
+broiled eel bowl,190,9.0,23.0,6.0
+clear soup,15,1.0,1.5,0.5
+yudofu,76,8.0,1.9,4.8
+mozuku,5,0.2,1.3,0.1
+inarizushi,195,5.0,28.0,6.0
+pork loin cutlet,250,17.0,16.0,14.0
+pork fillet cutlet,230,20.0,14.0,11.0
+chicken cutlet,235,20.0,14.0,11.0
+ham cutlet,260,14.0,16.0,16.0
+minced meat cutlet,280,14.0,16.0,18.0
+thinly sliced raw horsemeat,120,22.0,0.0,4.0
+bagel,250,9.0,49.0,1.5
+scone,360,7.0,54.0,14.0
+tortilla,300,8.0,50.0,7.0
+tacos,226,9.0,23.0,11.0
+nachos,470,9.0,57.0,23.0
+meat loaf,230,14.0,10.0,14.0
+scrambled egg,148,10.0,1.6,11.0
+rice gratin,150,5.0,20.0,5.5
+lasagna,135,7.0,15.0,5.0
+Caesar salad,160,4.0,8.0,13.0
+oatmeal,71,2.5,12.0,1.5
+fried pork dumplings served in soup,120,6.0,15.0,4.0
+oshiruko,110,3.0,24.0,0.2
+muffin,377,6.0,56.0,14.0
+popcorn,387,12.0,78.0,4.5
+cream puff,300,5.0,35.0,17.0
+doughnut,452,5.0,49.0,25.0
+apple pie,237,2.4,34.0,11.0
+parfait,170,3.5,25.0,6.0
+fried pork in scoop,260,16.0,12.0,17.0
+lamb kebabs,255,17.0,2.0,20.0
+"dish consisting of stir-fried potato, eggplant and green pepper",120,2.0,14.0,6.0
+roast duck,337,19.0,0.0,28.0
+hot pot,60,6.0,3.0,2.0
+pork belly,520,9.0,0.0,53.0
+xiao long bao,230,8.0,28.0,8.0
+moon cake,410,8.0,54.0,18.0
+custard tart,320,6.0,38.0,16.0
+beef noodle soup,90,6.0,10.0,3.0
+pork cutlet,250,20.0,12.0,14.0
+minced pork rice,220,7.0,28.0,8.0
+fish ball soup,60,6.0,5.0,2.0
+oyster omelette,160,8.0,16.0,7.0
+glutinous oil rice,220,4.0,36.0,7.0
+trunip pudding,170,3.0,30.0,6.0
+stinky tofu,190,12.0,6.0,13.0
+lemon fig jelly,95,1.5,22.0,0.1
+khao soi,160,7.0,17.0,7.0
+Sour prawn soup,60,5.0,5.0,2.0
+Thai papaya salad,90,2.0,12.0,4.0
+"boned, sliced Hainan-style chicken with marinated rice",220,10.0,25.0,8.5
+"hot and sour, fish and vegetable ragout",70,7.0,5.0,2.0
+stir-fried mixed vegetables,90,3.0,9.0,5.0
+beef in oyster sauce,170,14.0,6.0,9.0
+pork satay,220,16.0,6.0,15.0
+spicy chicken salad,120,12.0,4.0,6.0
+noodles with fish curry,150,7.0,20.0,5.0
+Pork Sticky Noodles,190,9.0,25.0,6.0
+Pork with lemon,160,17.0,4.0,7.0
+stewed pork leg,290,18.0,2.0,22.0
+charcoal-boiled pork neck,300,20.0,1.0,24.0
+fried mussel pancakes,210,12.0,20.0,10.0
+Deep Fried Chicken Wing,290,22.0,6.0,20.0
+Barbecued red pork in sauce with rice,220,10.0,27.0,7.0
+Rice with roast duck,235,9.0,27.0,9.0
+Rice crispy pork,260,10.0,25.0,13.0
+Wonton soup,70,5.0,7.0,2.0
+Chicken Rice Curry With Coconut,190,7.0,22.0,7.0
+Crispy Noodles,330,9.0,45.0,12.0
+Egg Noodle In Chicken Yellow Curry,180,8.0,22.0,7.0
+coconut milk soup,110,3.0,5.0,9.0
+pho,70,7.0,10.0,1.5
+Hue beef rice vermicelli soup,80,6.0,11.0,2.0
+Vermicelli noodles with snails,85,6.0,12.0,2.0
+Fried spring rolls,250,8.0,28.0,12.0
+Steamed rice roll,130,5.0,24.0,3.0
+Shrimp patties,220,14.0,10.0,14.0
+ball shaped bun with pork,230,8.0,35.0,6.0
+Coconut milk-flavored crepes with shrimp and beef,190,9.0,20.0,8.0
+Small steamed savory rice pancake,140,3.0,28.0,2.0
+Glutinous Rice Balls,230,3.0,52.0,2.0
+loco moco,190,9.0,17.0,9.0
+haupia,220,2.0,28.0,12.0
+malasada,420,6.0,50.0,22.0
+laulau,180,16.0,3.0,12.0
+spam musubi,250,9.0,34.0,8.5
+oxtail soup,70,6.0,2.0,4.0
+adobo,180,14.0,3.0,12.0
+lumpia,220,8.0,24.0,10.0
+brownie,466,5.0,64.0,22.0
+churro,412,5.0,51.0,20.0
+jambalaya,157,7.0,20.0,5.0
+nasi goreng,200,4.0,34.0,5.0
+ayam goreng,260,20.0,6.0,16.0
+ayam bakar,180,24.0,2.0,8.0
+bubur ayam,90,4.0,16.0,1.5
+gulai,160,8.0,6.0,11.0
+laksa,120,5.0,12.0,5.0
+mie ayam,140,6.0,22.0,3.5
+mie goreng,190,5.0,28.0,6.0
+nasi campur,180,6.0,26.0,6.0
+nasi padang,200,7.0,22.0,9.0
+nasi uduk,190,3.5,28.0,6.0
+babi guling,280,20.0,2.0,21.0
+kaya toast,340,7.0,48.0,13.0
+bak kut teh,90,8.0,2.0,5.0
+curry puff,330,7.0,35.0,18.0
+chow mein,170,6.0,26.0,5.0
+zha jiang mian,210,9.0,28.0,7.0
+kung pao chicken,170,14.0,8.0,8.0
+crullers,400,6.0,45.0,20.0
+eggplant with garlic sauce,120,2.0,10.0,8.0
+three cup chicken,210,16.0,6.0,12.0
+bean curd family style,120,8.0,6.0,7.0
+salt & pepper fried shrimp with shell,210,20.0,8.0,10.0
+baked salmon,208,22.0,0.0,13.0
+braised pork meat ball with napa cabbage,190,12.0,6.0,12.0
+winter melon soup,25,1.5,4.0,0.5
+steamed spareribs,240,16.0,3.0,18.0
+chinese pumpkin pie,230,5.0,35.0,8.0
+eight treasure rice,220,4.0,45.0,2.0
+hot & sour soup,50,3.0,6.0,1.5

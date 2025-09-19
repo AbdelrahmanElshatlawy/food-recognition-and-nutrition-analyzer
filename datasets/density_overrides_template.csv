@@ -1,0 +1,257 @@
+label,density
+rice,0.85
+eels on rice,0.9
+pilaf,0.85
+chicken-'n'-egg on rice,0.85
+pork cutlet on rice,0.6
+beef curry,0.95
+sushi,0.85
+chicken rice,0.85
+fried rice,0.85
+tempura bowl,0.6
+bibimbap,0.85
+toast,0.3
+croissant,0.27
+roll bread,0.3
+raisin bread,0.3
+chip butty,1.0
+hamburger,0.45
+pizza,0.5
+sandwiches,0.4
+udon noodle,0.6
+tempura udon,0.6
+soba noodle,0.55
+ramen noodle,0.55
+beef noodle,0.55
+tensin noodle,0.55
+fried noodle,0.55
+spaghetti,0.6
+Japanese-style pancake,0.35
+takoyaki,1.0
+gratin,0.85
+sauteed vegetables,0.35
+croquette,0.6
+grilled eggplant,0.4
+sauteed spinach,0.3
+vegetable tempura,0.55
+miso soup,1.0
+potage,1.0
+sausage,1.0
+oden,1.0
+omelet,1.03
+ganmodoki,1.0
+jiaozi,0.95
+stew,0.95
+teriyaki grilled fish,1.02
+fried fish,0.95
+grilled salmon,1.02
+salmon meuniere,1.02
+sashimi,1.02
+grilled pacific saury,1.02
+sukiyaki,1.0
+sweet and sour pork,1.05
+lightly roasted fish,1.02
+steamed egg hotchpotch,1.03
+tempura,0.6
+fried chicken,0.95
+sirloin cutlet,0.95
+nanbanzuke,1.0
+boiled fish,1.02
+seasoned beef with potatoes,1.05
+hambarg steak,1.05
+steak,1.1
+dried fish,1.02
+ginger pork saute,1.05
+spicy chili-flavored tofu,1.03
+yakitori,1.05
+cabbage roll,0.35
+omelet,1.03
+egg sunny-side up,1.03
+natto,1.0
+cold tofu,1.03
+egg roll,1.03
+chilled noodle,0.55
+stir-fried beef and peppers,0.6
+simmered pork,1.05
+boiled chicken and vegetables,1.05
+sashimi bowl,0.9
+sushi bowl,0.9
+fish-shaped pancake with bean jam,0.65
+shrimp with chill source,1.02
+roast chicken,1.05
+steamed meat dumpling,0.95
+omelet with fried rice,0.6
+cutlet curry,0.95
+spaghetti meat sauce,0.6
+fried shrimp,0.8
+potato salad,0.6
+green salad,0.25
+macaroni salad,0.65
+Japanese tofu and vegetable chowder,0.98
+pork miso soup,1.0
+chinese soup,1.0
+beef bowl,1.05
+kinpira-style sauteed burdock,0.35
+rice ball,0.85
+pizza toast,0.4
+dipping noodles,1.0
+hot dog,0.45
+french fries,1.0
+mixed rice,0.85
+goya chanpuru,0.35
+green curry,0.95
+okinawa soba,0.55
+mango pudding,1.05
+almond jelly,1.05
+jjigae,0.98
+dak galbi,1.0
+dry curry,0.95
+kamameshi,0.85
+rice vermicelli,0.55
+paella,0.85
+tanmen,0.55
+kushikatu,1.0
+yellow curry,0.95
+pancake,0.35
+champon,0.55
+crape,0.35
+tiramisu,0.7
+waffle,0.35
+rare cheese cake,0.8
+shortcake,0.6
+chop suey,1.0
+twice cooked pork,1.05
+mushroom risotto,0.6
+samul,1.0
+zoni,1.0
+french toast,0.35
+fine white noodles,1.0
+minestrone,1.0
+pot au feu,1.0
+chicken nugget,0.95
+namero,1.0
+french bread,0.35
+rice gruel,1.0
+broiled eel bowl,0.9
+clear soup,1.0
+yudofu,1.03
+mozuku,1.03
+inarizushi,1.0
+pork loin cutlet,0.95
+pork fillet cutlet,0.95
+chicken cutlet,0.95
+ham cutlet,0.9
+minced meat cutlet,0.95
+thinly sliced raw horsemeat,1.0
+bagel,0.4
+scone,0.4
+tortilla,0.4
+tacos,0.35
+nachos,0.35
+meat loaf,1.05
+scrambled egg,1.03
+rice gratin,0.85
+lasagna,0.7
+Caesar salad,0.3
+oatmeal,1.0
+fried pork dumplings served in soup,0.98
+oshiruko,1.0
+muffin,0.4
+popcorn,1.0
+cream puff,0.6
+doughnut,0.45
+apple pie,0.7
+parfait,0.7
+fried pork in scoop,0.6
+lamb kebabs,1.05
+"dish consisting of stir-fried potato, eggplant and green pepper",0.6
+roast duck,1.05
+hot pot,0.98
+pork belly,1.05
+xiao long bao,1.0
+moon cake,0.65
+custard tart,0.75
+beef noodle soup,0.95
+pork cutlet,0.95
+minced pork rice,0.85
+fish ball soup,0.98
+oyster omelette,1.02
+glutinous oil rice,0.85
+trunip pudding,0.65
+stinky tofu,1.03
+lemon fig jelly,0.65
+khao soi,1.0
+Sour prawn soup,0.98
+Thai papaya salad,0.25
+"boned, sliced Hainan-style chicken with marinated rice",0.85
+"hot and sour, fish and vegetable ragout",0.98
+stir-fried mixed vegetables,0.35
+beef in oyster sauce,1.05
+pork satay,1.05
+spicy chicken salad,0.25
+noodles with fish curry,0.98
+Pork Sticky Noodles,1.05
+Pork with lemon,1.05
+stewed pork leg,1.05
+charcoal-boiled pork neck,1.05
+fried mussel pancakes,0.6
+Deep Fried Chicken Wing,0.95
+Barbecued red pork in sauce with rice,0.85
+Rice with roast duck,0.85
+Rice crispy pork,0.85
+Wonton soup,0.95
+Chicken Rice Curry With Coconut,0.98
+Crispy Noodles,1.0
+Egg Noodle In Chicken Yellow Curry,0.98
+coconut milk soup,0.98
+pho,0.95
+Hue beef rice vermicelli soup,0.98
+Vermicelli noodles with snails,0.55
+Fried spring rolls,0.6
+Steamed rice roll,0.85
+Shrimp patties,1.02
+ball shaped bun with pork,0.35
+Coconut milk-flavored crepes with shrimp and beef,1.05
+Small steamed savory rice pancake,0.85
+Glutinous Rice Balls,0.85
+loco moco,1.0
+haupia,1.0
+malasada,1.0
+laulau,1.0
+spam musubi,1.0
+oxtail soup,0.98
+adobo,1.0
+lumpia,1.0
+brownie,0.65
+churro,0.35
+jambalaya,1.0
+nasi goreng,1.0
+ayam goreng,1.0
+ayam bakar,1.0
+bubur ayam,1.0
+gulai,1.0
+laksa,0.98
+mie ayam,1.0
+mie goreng,1.0
+nasi campur,1.0
+nasi padang,1.0
+nasi uduk,1.0
+babi guling,1.0
+kaya toast,0.35
+bak kut teh,1.0
+curry puff,0.98
+chow mein,0.55
+zha jiang mian,0.55
+kung pao chicken,1.05
+crullers,0.35
+eggplant with garlic sauce,0.35
+three cup chicken,1.05
+bean curd family style,1.03
+salt & pepper fried shrimp with shell,0.6
+baked salmon,1.02
+braised pork meat ball with napa cabbage,1.05
+winter melon soup,0.98
+steamed spareribs,1.0
+chinese pumpkin pie,0.65
+eight treasure rice,0.85
+hot & sour soup,0.98
