@@ -21,6 +21,7 @@ End-to-end pipeline that estimates nutrition from a single meal photo.
 - [Training (summary)](#training-summary)
 - [Example Output (console)](#example-output-console)
 - [Notes & Calibration](#notes--calibration)
+- [Installation & Usage](#installation--usage)
 - [License](#license)
 
 ## Examples
@@ -144,6 +145,29 @@ Total Nutrition:
 - Add realistic densities in `datasets/density_overrides_template.csv` (e.g., `rice=0.85`, `toast=0.27`, `noodles=0.55`).
 - Tweak `expected_peak_cm` and `DEFAULT_PLATE_DIAM_CM` in the script for your camera/plates.
 - Consider a YOLO **segmentation** model to skip GrabCut and improve masks.
+
+---
+
+## Installation & Usage
+
+### Clone the repository
+
+```bash
+git clone https://github.com/AbdelrahmanElshatlawy/food-recognition-and-nutrition-analyzer.git
+cd food-recognition-and-nutrition-analyzer
+```
+
+### Install dependencies
+
+```bash
+pip install ultralytics torch torchvision opencv-python pandas numpy
+```
+
+### Run the analysis
+
+```bash
+python nutrition_pipeline.py
+```
 
 ---
 
