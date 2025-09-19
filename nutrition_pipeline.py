@@ -12,12 +12,11 @@ from ultralytics import YOLO
 import hashlib
 
 # ===================== CONFIG =====================
-BASE = r"E:\Food Recognition & Nutrition Analyzer"
+BASE = r"E:\Local Repositories\food-recognition-and-nutrition-analyzer"
 WEIGHTS = f"{BASE}/runs/food256_yv8m_ddp_640/weights/best.pt"                       # <- your trained detector
 NUTRITION_CSV = f"{BASE}/datasets/nutrition_256.csv"                                # <- food,calories,protein,carbs,fat
 DENSITY_CSV   = f"{BASE}/datasets/density_overrides_template.csv"                   # <- label,density (optional overrides)
-TEST_IMAGE = r"E:\Food Detection Project\Datasets\uec256_yolo\images\test\28.jpg"    # or use TEST_DIR below
-#TEST_DIR = r"E:\some\folder\with\images"
+TEST_IMAGE = r"E:\Food Detection Project\Datasets\uec256_yolo\images\test\28.jpg"   # or use TEST_DIR below
 CONF = 0.25                                                                         # detection conf threshold
 DEVICE = 0                                                                          # YOLO device (0 for first GPU, or "cpu")
 IMG_SIZE = 640
@@ -515,24 +514,3 @@ if os.path.isfile(TEST_IMAGE):
     df, total = run_one_image(TEST_IMAGE)
     print("\nPer-Food breakdown:\n", df)
     print("\nTotals:\n", total)
-
-"""# Batch mode (optional)
-if os.path.isdir(TEST_DIR):
-    from glob import glob
-    exts = ("*.jpg", "*.jpeg", "*.png", "*.bmp", "*.webp")
-    imgs = [p for ext in exts for p in glob(os.path.join(TEST_DIR, ext))]
-    if imgs:
-        all_rows = []
-        grand_total = {"calories": 0.0, "protein": 0.0, "carbs": 0.0, "fat": 0.0}
-        for p in imgs:
-            print(f"\n=== {p} ===")
-            df, total = run_one_image(p)
-            df["image"] = os.path.basename(p)
-            all_rows.append(df)
-            for k in grand_total:
-                grand_total[k] += total[k]
-
-        big = pd.concat(all_rows, ignore_index=True)
-        big.to_csv("batch_results_breakdown.csv", index=False)
-        pd.DataFrame([grand_total]).to_csv("batch_results_summary.csv", index=False)
-        print("\n✅ Batch CSVs saved: batch_results_breakdown.csv, batch_results_summary.csv")"""
