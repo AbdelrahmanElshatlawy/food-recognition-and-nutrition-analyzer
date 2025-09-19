@@ -13,7 +13,7 @@ End-to-end pipeline that estimates nutrition from a single meal photo.
 ---
 
 ## Table of Contents
-- [Screenshots](#screenshots)
+- [Examples](#examples)
 - [Repository Structure](#repository-structure)
 - [Trained Weights (Kaggle)](#trained-weights-kaggle)
 - [Requirements](#requirements)
@@ -23,11 +23,17 @@ End-to-end pipeline that estimates nutrition from a single meal photo.
 - [Notes & Calibration](#notes--calibration)
 - [License](#license)
 
-## Screenshots
+## Examples
 
-> Example annotated output (replace with your own):
+> Example annotated output:
 
-![Annotated output](out/96/96_annot.jpg)
+![Annotated output](out/12082/12082_annot.jpg)
+### Results Breakdown
+| food | weight_g | calories | protein | carbs | fat |
+|---|---:|---:|---:|---:|---:|
+| rice | 73.5 | 95.55 | 1.9845 | 20.727 | 0.2205 |
+| Japanese tofu and vegetable chowder | 36.2 | 21.72 | 1.448 | 2.172 | 0.724 |
+
 
 ## Repository Structure
 
@@ -36,15 +42,16 @@ End-to-end pipeline that estimates nutrition from a single meal photo.
 ├─ datasets/
 │  ├─ nutrition_256.csv                 # per-100g macros (food, calories, protein, carbs, fat)
 │  └─ density_overrides_template.csv    # optional per-class densities (label, density)
-├─ food256_yv8m_ddp_640/                # example YOLO run folder (weights/best.pt lives here)
+├─ food256_yv8m_ddp_640/                # YOLO run folder (weights/best.pt lives here)
 ├─ out/                                 # pipeline outputs (created at runtime)
 │  └─ <image_stem>/
 │     ├─ <image_stem>_annot.jpg
 │     ├─ results_breakdown.csv
 │     └─ results_summary.csv
+├─ documentation.md                     # extended docs
 ├─ nutrition_pipeline.py                # detection → depth → nutrition inference script
-├─ train_yolov8m.ipynb                  # training notebook (builds new_data/, trains YOLO)
-└─ Documentation.md                     # extended docs / README source
+├─ readme.md                            # repo readme (this file)
+└─ train_yolov8m.ipynb                  # training notebook (builds new_data/, trains YOLO)
 ```
 
 > If your `best.pt` is elsewhere, update the `WEIGHTS` path in `nutrition_pipeline.py`.
