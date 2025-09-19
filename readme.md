@@ -173,5 +173,5 @@ python nutrition_pipeline.py
 
 ## License
 
-MIT (or your preference).
+MIT
 
