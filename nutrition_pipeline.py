@@ -20,7 +20,7 @@ TEST_IMAGE = r"E:\Food Detection Project\Datasets\uec256_yolo\images\test\12082.
 CONF = 0.25                                                                             # detection conf threshold
 DEVICE = 0                                                                              # YOLO device (0 for first GPU, or "cpu")
 IMG_SIZE = 640
-DEFAULT_PLATE_DIAM_CM = 10                                                          # assumed plate diameter
+DEFAULT_PLATE_DIAM_CM = 16                                                              # assumed plate diameter
 # NOTE: we no longer use a fixed DEPTH_TO_CM multiplier (we normalize per-image instead)
 # ==================================================
 
